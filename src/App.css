@@ -25,7 +25,7 @@ body{
     width: 300px;
     /* margin: 10px 10px 10px 10px; */
     height: 500px;
-    /* background-color: rgb(62, 0, 116); */
+    /* background-color: rgb(0, 116, 104); */
     background-image: linear-gradient(to bottom left, #000000, #ff0000);
 }
 
@@ -75,11 +75,12 @@ button:hover{
 .numBtn{
     border-radius: 100px;
 }
-/* .fnBtn{
-    background-color: rgba(212, 0, 0, 0.696);
+.fnBtn{
+    background-color: rgba(157, 0, 0, 0.692);
     color: white;
+    font-size: 40px;
 }
 
 .cnBtn{
     background-color: rgb(182, 160, 0);
-} */
+}
